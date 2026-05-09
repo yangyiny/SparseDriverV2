@@ -16,7 +16,7 @@ from navsim.planning.training.dataset import load_feature_target_from_pickle
 
 K_PATH = 1024
 K_VELOCITY = 256
-CACHE_PATH = "exp/data_cache_navtrain"
+CACHE_PATH = "exp/metric_cache_navtrainv2"
 VIS_DIR = "vis"
 CKPT_DIR = "ckpt/kmeans"
 DT = 0.5
